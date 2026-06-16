@@ -1,2 +1,28 @@
-# 53789df1-podcast-production-booking-and
-wrestling with incompatible WordPress plugins that fight each other costs you real money. This WordPress plugin pays for itself in one use.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Podcast Production Booking And Appointment — ful
+# Podcast Production Booking and Appointment System WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ6oHcLl7Eo2hibzScZs1z)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ6oHcLl7Eo2hibzScZs1z)
+
